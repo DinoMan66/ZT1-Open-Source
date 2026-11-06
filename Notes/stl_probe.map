@@ -1,0 +1,6 @@
+# STLport probe: game addresses of out-of-line STLport helpers
+_M_range_initialize@ = 0x401CAB
+_M_allocate_block@ = 0x401D2D
+_S_chunk_alloc@ = 0x40355A
+?deallocate@?$allocator@D@ = 0x401A2F
+?allocate@?$__node_alloc@ = 0x40107F

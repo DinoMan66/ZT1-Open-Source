@@ -1,0 +1,1532 @@
+kind,name,va,source,status,tier,unverified_refs,note
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x402e14,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x402e1d,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x402e47,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x402e5e,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x402f43,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x402f4c,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x402f76,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x4038af,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x4038d9,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x404812,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x40483c,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x406b5d,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x406b87,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x4072b0,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x4072b9,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x4072e3,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x407306,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x407330,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x409b22,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x409b2b,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x409b55,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x40bc8a,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x40bc93,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x40bcbd,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x40c495,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x40c4bf,instances_refdata.csv,MATCH,copies,2,
+copy,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,0x4102fc,instances_forwarders.csv,MATCH,copies,1,
+copy,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,0x411eb8,instances_forwarders.csv,MATCH,copies,1,
+copy,@self:??0ZTActionBase@@QAE@PAUZTEntity@@H@Z,0x413ba8,instances_actions.csv,MATCH,copies,2,
+copy,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,0x41c922,instances_forwarders.csv,MATCH,copies,1,
+copy,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,0x41e32a,instances_forwarders.csv,MATCH,copies,1,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x41e5fb,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x41e604,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x41e62e,instances_refdata.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x422890,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x4260ff,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x4261d9,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x4266b0,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x426a59,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x426a9f,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x427749,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x42a4a5,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x42a4df,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x42a519,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x42a553,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x42a8f0,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x42c7ca,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x42c840,instances_actions.csv,MATCH,copies,2,
+copy,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,0x436c86,instances_forwarders.csv,MATCH,copies,1,
+copy,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,0x439c73,instances_forwarders.csv,MATCH,copies,1,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x43ebe3,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x43ebfa,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x43ec5e,instances_actions.csv,MATCH,copies,2,
+copy,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,0x4405b3,instances_forwarders.csv,MATCH,copies,1,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x440924,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x440fb9,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x441226,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x441260,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x470121,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x470196,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x47045a,instances_actions.csv,MATCH,copies,2,
+copy,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,0x477326,instances_forwarders.csv,MATCH,copies,1,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x47f6b5,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x47f828,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x48abcc,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x48b4d1,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x48c015,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x48d4f2,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x498cb7,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x49962d,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x49a386,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x49a43c,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x49a476,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x49a5ad,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x49a640,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x49a8ca,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x49ac0a,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x49ad06,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x49ad94,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x49ade6,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x49afd1,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x49b00b,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x49b324,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x49b575,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x49b659,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x49b88c,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x49e331,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x49e3a6,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x49e985,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x4a0830,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x4a0b53,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x4a13b0,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x4a27eb,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x4a2963,instances_actions.csv,MATCH,copies,2,
+copy,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,0x4a4d5f,instances_forwarders.csv,MATCH,copies,1,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x4a4da2,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x4a4e07,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x4a4e37,instances_actions.csv,MATCH,copies,3,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x4a5d60,instances_refdata.csv,MATCH,copies,1,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x4a6758,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x4a6bbd,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x4a8162,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x4a8201,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x4a826d,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x4a837b,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x4a851b,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x4a8811,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x4a8ec4,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x4a9599,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x4a964c,instances_actions.csv,MATCH,copies,3,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x4a97e5,instances_refdata.csv,MATCH,copies,1,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x4a9835,instances_actions.csv,MATCH,copies,3,
+copy,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,0x4aaf2d,instances_forwarders.csv,MATCH,copies,1,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x4ab9e3,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x4ab9ec,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x4aba16,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x4ababc,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x4abac5,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x4abaef,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x4abc5c,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x4abc65,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x4abc8f,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x4abfe3,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x4abfec,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x4ac016,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x4ac02d,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x4ac036,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x4ac060,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x4ad020,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x4ad029,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x4ad053,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x4ad393,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x4ad3bd,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x4b3190,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x4b3199,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x4b31c3,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x4c6722,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x4c672b,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x4c6755,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x4c6796,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x4c679f,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x4c67c9,instances_refdata.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x4e5598,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x4e8a31,instances_actions.csv,MATCH,copies,3,
+copy,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,0x4f5c4b,instances_forwarders.csv,MATCH,copies,1,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x4fa2ee,instances_actions.csv,MATCH,copies,2,
+copy,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,0x4fbe42,instances_forwarders.csv,MATCH,copies,1,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x5015f5,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x5015fe,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x501628,instances_refdata.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x502915,instances_actions.csv,MATCH,copies,2,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x503e33,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x503e3c,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x503e66,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x503e7d,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x503e86,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x503eb0,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x504021,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x50402a,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x504054,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x50406b,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x504074,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x50409e,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x504197,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x5041a0,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x5041ca,instances_refdata.csv,MATCH,copies,2,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x5041e1,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?set@BFRefProbeHandle@@QAEXPAVBFRefProbe@@@Z,0x5041ea,instances_refdata.csv,MATCH,copies,0,
+copy,@self:?release@BFRefProbe@@QAEXXZ,0x504214,instances_refdata.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x5082e5,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x50835a,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x508448,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x508b90,instances_actions.csv,MATCH,copies,3,
+copy,@self:?reset@BFRefProbeHandle@@QAEXXZ,0x508f2e,instances_refdata.csv,MATCH,copies,1,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x50d36a,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x50d3b0,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x50d62b,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x50d6f4,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x50da68,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x50dadd,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x50dc0d,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x50e193,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x50e4ac,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x52cfdc,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x52d064,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x52d0a0,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x52d1cd,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x52d23a,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x52d30c,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x52d6f1,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x52d971,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x52da10,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x52dc85,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x52de0e,instances_actions.csv,MATCH,copies,3,
+copy,s_className@UIListBox@@,0x5389f1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImage@@,0x538a8e,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIButton@@,0x538b2b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x538bc8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollingRegion@@,0x538c65,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UILayout@@,0x538d02,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImageSet@@,0x538d9f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIGraph@@,0x538e60,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x53934a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UILayout@@,0x5393e7,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIStatusImage@@,0x539484,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIListBox@@,0x539521,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIMessageQueue@@,0x5395be,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x539792,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x539797,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UILayout@@,0x539834,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x539d57,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollingRegion@@,0x539df4,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x539e91,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x53a233,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollingRegion@@,0x53a2d0,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIStatusImage@@,0x53a36d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x53a40a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIMessageQueue@@,0x53a558,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImage@@,0x53a55d,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIImageSet@@,0x53a5fa,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIListBox@@,0x53a697,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIGraph@@,0x53a734,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@DX8SndMgr@@,0x53a739,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@DX8SndMgr@@,0x53a7d6,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x53a873,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53a910,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UILayout@@,0x53a9ad,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UILayout@@,0x53aa4a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIEditableText@@,0x53aae7,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UILayout@@,0x53ab84,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x53ac21,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIEditableText@@,0x53acbe,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@DX8SndMgr@@,0x53b026,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x53b28a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53b327,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53b64a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTShowMgr@@,0x53b6e7,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x53b806,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53b8a3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTShowMgr@@,0x53b940,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x53ba39,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53bad6,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x53bb84,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x53bdad,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMapView@@,0x53be4a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTShowMgr@@,0x53bee7,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIButton@@,0x53c5e6,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIListBox@@,0x53c683,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x53c720,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x53c7bd,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x53c85a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x53c8f7,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTResearchMgr@@,0x53c994,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTWorldMgr@@,0x53cc5b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x53ccf8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53cd95,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x53ce32,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x53cecf,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTAIMgr@@,0x53cf6c,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTShowMgr@@,0x53d009,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x53d0a6,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53d143,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x53d1e0,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x53d27d,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTWorldMgr@@,0x53d31a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x53d3b7,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53d454,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53d5c0,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x53d5c5,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53d662,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x53d6ff,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x53d79c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x53d839,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x53d9b4,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53da51,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x53daee,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x53dc69,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x53dc6e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53dd0b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x53dda8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x53df23,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x53df28,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x53dfc5,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53e062,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53e1dd,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x53e1e2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTShowMgr@@,0x53e27f,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x53e31c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53e497,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53e49c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x53e539,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x53e5d6,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x53e6b4,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x53e6b9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53e756,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x53e7f3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53e890,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x53e92d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53e9ca,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x53ea67,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x53ec08,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53eca5,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x53ed42,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53eddf,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x53ef9b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53efe1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x53f07e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x53f11b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53f1b8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x53f9e3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x53fb1f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x53fbbc,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54047e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54051b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x5405b8,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x540655,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5406f2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54092f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5409cc,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x540a69,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x540b06,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x540ba3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x540c40,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x540cdd,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x540d7a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x540e17,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x540eb4,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x540f51,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x540fee,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54108b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x541128,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x5411c5,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x541403,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54153d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x541542,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x5415df,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54167c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x541719,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x5417b6,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x541f26,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x541fe6,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x542083,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x542120,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5421bd,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x54225a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x5422f7,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x542394,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x542431,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x5424ce,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54256b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x542608,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x5426a5,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x542742,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5427df,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x54287c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x542919,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x543476,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x543513,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTWorldMgr@@,0x5435b0,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54364d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5436ea,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x543787,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x543901,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54399e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x543a3b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTAIMgr@@,0x543ad8,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x543b75,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x543c12,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x543caf,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x543e31,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x543e36,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x543f14,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x543fb1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54404e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5440eb,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x544188,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x544225,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x5442c2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x54435f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x5443fc,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x544499,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x544536,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x5445d3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x544670,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTAIMgr@@,0x54470d,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x5447aa,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x544998,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x544a35,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x544ad2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x544b6f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x544c0c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x544ca9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x544d46,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x544de3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x544e80,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x544f1d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x544fba,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x545057,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x546125,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5461c2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTAIMgr@@,0x5464b1,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x54654e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5465eb,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x546dbe,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x546e5b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54777c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x547819,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x547993,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x548098,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x548135,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x548520,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x5485bd,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54865a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x548f10,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x548fad,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54904a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x549ac7,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x549b64,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x549c01,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x54a730,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54a7cd,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54a86a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54b371,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54b40e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54b4ab,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54b548,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x54b5e5,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54b682,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54b71f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x54b7bc,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTWorldMgr@@,0x54b859,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54b8f6,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54b993,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x54ba30,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54bacd,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54bb6a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54bc07,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54bca4,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54c180,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54c2a2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x54c2a7,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTAIMgr@@,0x54c344,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x54c3e1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54c47e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTShowMgr@@,0x54c51b,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTShowMgr@@,0x54c6d7,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x54c6dc,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54c779,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTShowMgr@@,0x54c816,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTHabitatMgr@@,0x54c8b3,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x54c950,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54c9ed,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54cb4d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54cbea,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x54cc87,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54cd24,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54cdc1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x54ce5e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x54d07f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54df8b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x54e105,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTAIMgr@@,0x54e1a2,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x54e23f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54e2dc,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54e754,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x54e7ae,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x54e84b,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x54eeb3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54ef50,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54efed,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54f08a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x54f127,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x54f1c4,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54f261,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54f2fe,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x54f39b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTAIMgr@@,0x54f438,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x54f4d5,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54f572,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x54f60f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x54f6ac,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x54f749,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x550248,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x55024d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5502ea,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x550464,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x550501,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x55059e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x55063b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x5506e9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x550786,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x550823,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5508c0,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTResearchMgr@@,0x55095d,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x550b9b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x550c38,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMiniMap@@,0x550cd5,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UILayout@@,0x550d72,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x550e0f,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIView@@,0x550eac,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMapView@@,0x550f49,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x550fe6,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x551083,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x551120,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x5511ce,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x55126b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x551308,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x5513a5,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x551442,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x551c4f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x551cec,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x551d9a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x551e37,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x551ee5,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x551f82,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x55201f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x5520bc,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTResearchMgr@@,0x552352,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIText@@,0x552554,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x55257b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTAIMgr@@,0x553140,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTHabitatMgr@@,0x5531dd,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMegatileMgr@@,0x55327a,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTThoughtMgr@@,0x553317,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x5533b4,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTShowMgr@@,0x553451,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x5534ee,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x55359c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x553639,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x5536d6,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x553773,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x55385b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5538f8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x553995,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x553a32,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x553ae0,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x553b7d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x553c1a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x553cb7,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMapView@@,0x553d54,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x553df1,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x553e8e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x553f2b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x553fc8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x554065,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x554102,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x55419f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x55423c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x5542d9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x554376,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x554413,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x5544b0,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x55454d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5545ea,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x554687,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x554724,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x5547c1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x554b9f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x554ba4,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x554c41,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x554cde,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x554d7b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x554e18,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x554eb5,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x554f52,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMessageQueue@@,0x555350,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIListBox@@,0x555355,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIStatusImage@@,0x5553f2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x55548f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x55552c,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x5555c9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTThoughtMgr@@,0x555666,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x555703,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x5557a0,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x55583d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x5558da,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x555977,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollingRegion@@,0x555a14,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x555ab1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x555b4e,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x555beb,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x555cd8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x555d75,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x555e12,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x555eaf,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollingRegion@@,0x555f4c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x555fe9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x556086,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x556123,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImage@@,0x5561c0,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x5562ad,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x55634a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x5563e7,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x556484,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x556521,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIMessageQueue@@,0x5565be,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMessageQueue@@,0x55665b,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x5566f8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x556795,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIMessageQueue@@,0x556832,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImageSet@@,0x556a36,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x556a3b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x556ad8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x556b75,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImage@@,0x556c12,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x556caf,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x556d4c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x556de9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImage@@,0x556e86,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIListBox@@,0x556f23,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x556fc0,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x55705d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x5570fa,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x557197,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x557234,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5572d1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x55736e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollingRegion@@,0x55740b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x5574a8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x557545,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x5575e2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x5576ad,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x55774a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x5577e7,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x557884,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollingRegion@@,0x557921,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImageSet@@,0x5579be,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x557a5b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x557af8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x557b95,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x557c32,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x557d6c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x557e09,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x557ea6,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x557f43,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImage@@,0x557fe0,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIListBox@@,0x55807d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x55811a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x5581b7,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x558254,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x5582f1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIStatusImage@@,0x55838e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTThoughtMgr@@,0x55842b,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x5584c8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x558565,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x558602,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x55869f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x55873c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImage@@,0x5587d9,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x558a31,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x558ace,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x558b6b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIListBox@@,0x558c08,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x558ca5,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x558d42,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x558ddf,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x558e7c,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x558f19,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x559010,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5590ad,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x55914a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIListBox@@,0x5591e7,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x559284,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x559321,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x5593be,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x55945b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x559717,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x5597b4,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x559851,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x559faf,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x55a04c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x55a0e9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIListBox@@,0x55a186,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x55a223,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x55ab8f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x55ac2c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x55acc9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImage@@,0x55ad66,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIListBox@@,0x55ae03,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIStatusImage@@,0x55aea0,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x55af3d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x55afda,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x55b077,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTThoughtMgr@@,0x55b114,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x55b28e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x55b5bb,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x55b5d1,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x55b66e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTThoughtMgr@@,0x55b70b,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x55b7a8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x55bafa,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x55bba4,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x55bba9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollingRegion@@,0x55bc46,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x55bce3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x55bd80,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x55be1d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x55beba,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTResearchMgr@@,0x55bf57,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x55c8f5,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x55c8fa,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIMessageQueue@@,0x55c997,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMessageQueue@@,0x55ca34,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x55cad1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x55cb6e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIListBox@@,0x55cc0b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x55cca8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x55cd45,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x55cde2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x55ce7f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImage@@,0x55cf1c,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIView@@,0x55cfb9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x55d056,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x55d0f3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x55d190,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x55d22d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImage@@,0x55d2ca,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIButton@@,0x55d367,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIListBox@@,0x55d404,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x55d4a1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x55d61b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x55d6b8,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIView@@,0x55d755,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMapView@@,0x55d7f2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x55d88f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIGraph@@,0x55d92c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMarketingMgr@@,0x55d9de,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x55e0a2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x55e13f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x55e1dc,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIGraph@@,0x55e279,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x55e316,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x55e3b3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x55e450,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x55e4ed,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x55e58a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x55e627,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImage@@,0x55e6c4,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIListBox@@,0x55e761,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIStatusImage@@,0x55e7fe,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x55e89b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x55eb39,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x55ebd6,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImage@@,0x55ec73,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIListBox@@,0x55ed10,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x55edad,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIStatusImage@@,0x55ee4a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTResearchMgr@@,0x55eee7,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x55ef84,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x55f32f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x55f929,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x55f9c6,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIListBox@@,0x55fa63,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x55fb00,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImage@@,0x55fb9d,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIView@@,0x55fc3a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x55fcf4,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x55fd91,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x560756,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x5607f3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x560890,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x56092d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x5609ca,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x560a67,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x560be1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x560c7e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x560d1b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x560db8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImage@@,0x560e55,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIImage@@,0x560fb5,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x560fba,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x561057,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x5610f4,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x561191,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x56122e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMapView@@,0x5612cb,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x561368,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x561405,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x5614a2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x56153f,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x5615dc,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x561679,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5618f1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x56198e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@DX8SndMgr@@,0x561a2b,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x561ac8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x561b65,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x561c02,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x562492,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x562497,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x562534,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x5625d1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UILayout@@,0x56266e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIListBox@@,0x56270b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x5627a8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x562845,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x5628e2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x562a5c,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTShowMgr@@,0x562af9,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIText@@,0x562c91,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x562d2e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTShowMgr@@,0x562dcb,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x563e8e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x563e93,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x563f30,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x563fcd,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x56406a,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMegatileMgr@@,0x564107,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMarketingMgr@@,0x564281,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTResearchMgr@@,0x56431e,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTShowMgr@@,0x5643bb,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x564458,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5644f5,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x564592,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x56462f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x5646cc,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x564874,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x564911,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x5649ae,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x564a4b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x5653bb,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x56549d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMapView@@,0x56553a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTShowMgr@@,0x5655d7,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x5658ae,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5658b3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTAIMgr@@,0x565950,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTHabitatMgr@@,0x5659ed,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTWorldMgr@@,0x565a8a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x565c61,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x565f8c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTAIMgr@@,0x565fd5,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIView@@,0x566072,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMapView@@,0x56610f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x5661ac,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTShowMgr@@,0x566249,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x566883,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x566920,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x5669bd,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x566a5a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x566af7,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x566b94,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTThoughtMgr@@,0x566c31,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTShowMgr@@,0x566f9d,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTWorldMgr@@,0x566fc4,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x567061,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIView@@,0x5670fe,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x56719b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMapView@@,0x567238,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTAIMgr@@,0x5672d5,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTShowMgr@@,0x567372,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x56740f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5674ac,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x567d94,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x567d99,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x567e36,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x567ed3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x567f70,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImage@@,0x56800d,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIImageSet@@,0x5680aa,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIListBox@@,0x568147,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIStatusImage@@,0x5681e4,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x568281,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x56831e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x5683bb,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x568458,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x5684f5,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x568592,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x568640,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5686dd,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x56877a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x568817,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x5688b4,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x568951,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x568a10,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x568aad,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x568b4a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x568be7,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x568c84,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x568d21,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x568dbe,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x569553,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5695f0,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x56968d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x56972a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x569bad,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x569c4a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x569ce7,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x569d84,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x569e21,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTThoughtMgr@@,0x56a211,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTHabitatMgr@@,0x56a2ae,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTWorldMgr@@,0x56a34b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x56a3e8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMapView@@,0x56a485,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTShowMgr@@,0x56a522,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x56a5e1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x56a67e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x56a71b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x56a7b8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImage@@,0x56a855,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollingRegion@@,0x56a8f2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x56a98f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x56aa2c,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x56aac9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImageSet@@,0x56b37f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x56b384,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x56b421,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTAdvTerrainMgr@@,0x56b4be,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x56b581,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x56b61e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTShowMgr@@,0x56b6bb,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTHabitatMgr@@,0x56b835,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x56b8d2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x56b96f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x56ba0c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x56baa9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x56bb46,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIListBox@@,0x56bbe3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x56bc80,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x56be0a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x56bea7,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTScriptMgr@@,0x56bf44,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x56caa7,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x56cb44,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x56cbe1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x56cd5b,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMegatileMgr@@,0x56cdf8,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTThoughtMgr@@,0x56ce95,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIView@@,0x56cf32,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMapView@@,0x56cfcf,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x56d06c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTAIMgr@@,0x56d109,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTResearchMgr@@,0x56d1a6,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMarketingMgr@@,0x56d243,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTShowMgr@@,0x56d2e0,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIText@@,0x56d405,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTAIMgr@@,0x56d4a2,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTScriptMgr@@,0x56d53f,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTWorldMgr@@,0x56d5dc,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x56d679,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x56d716,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x56d7b3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTShowMgr@@,0x56d850,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x56d8ed,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x56d98a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTScenarioMgr@@,0x56da27,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x56dac4,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x56db61,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTWorldMgr@@,0x56dbfe,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTResearchMgr@@,0x56dc9b,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMarketingMgr@@,0x56dd38,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIView@@,0x56ddd5,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMapView@@,0x56de72,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x56e044,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x56e049,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x56e9d6,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x56ea73,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x56eb10,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x56ebcf,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x56ed1b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x56edb8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIListBox@@,0x56ee55,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x56eef2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIEditableText@@,0x56ef8f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIStatusImage@@,0x56f02c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x56f0c9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMarketingMgr@@,0x56f9ae,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x56fa4b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x56faf9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x56fb96,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x56fc33,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x56fcd0,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x56fd6d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UILayout@@,0x56fe0a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIListBox@@,0x56fea7,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x56ff61,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x56fffe,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x57009b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x570215,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x5703f3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x570490,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTResearchMgr@@,0x57052d,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x5705ca,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x570678,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x570715,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTThoughtMgr@@,0x5707b2,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x570860,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5708fd,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x570c55,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x570cf2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMegatileMgr@@,0x570d8f,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x570e3d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x570eda,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x570f77,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x571014,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x5710b1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UILayout@@,0x57114e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x571200,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollingRegion@@,0x57129d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x57134f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x571ba9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMiniMap@@,0x571c46,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x571cf8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x571db9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x571e56,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTShowMgr@@,0x571ef3,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIText@@,0x5728b6,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x572953,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x5729f0,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x572a8d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x572c07,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x572ca4,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTResearchMgr@@,0x572d41,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x5735ca,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5735cf,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x57366c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIStatusImage@@,0x573709,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x5737bb,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x573858,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x5738f5,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIMessageQueue@@,0x573992,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMessageQueue@@,0x573a44,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x573b76,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x573c13,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIListBox@@,0x573cb0,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x573d62,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x573e1c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x573eb9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x573f56,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x573ff3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x57416d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x57420a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIListBox@@,0x5742a7,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIImage@@,0x574344,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIView@@,0x5743f6,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x574493,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x5747b4,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x5747b9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x574856,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@DX8SndMgr@@,0x5748f3,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x5749b6,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x574a53,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x574af0,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x574b8d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x574c2a,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTThoughtMgr@@,0x574cc7,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x574d64,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMapView@@,0x574e01,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x574eaf,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x574f4c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x574fe9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x575086,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x575123,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x5751c0,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x57525d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x5752fa,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x575397,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTResearchMgr@@,0x575434,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x5754d1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x57556e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x57560b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5756a8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTGameMgr@@,0x575745,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x5757e2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x57587f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x57591c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x5759b9,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x575a56,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x575e58,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x575e5d,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x575efa,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x575f97,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x576045,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5760e2,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x57617f,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIView@@,0x57621c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMapView@@,0x5762b9,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x576356,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x576553,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x576558,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x5765f5,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x576692,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIScrollBar@@,0x57672f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x5767cc,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x576869,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTAIMgr@@,0x576906,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x5769a3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x576a40,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIView@@,0x576add,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMapView@@,0x576b7a,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTShowMgr@@,0x576c17,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTHabitatMgr@@,0x577379,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIText@@,0x57737e,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x57741b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x577f44,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x577fe1,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x57807e,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIView@@,0x57811b,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTMapView@@,0x5781b8,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x578255,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTThoughtMgr@@,0x5782f2,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x57838f,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTShowMgr@@,0x578ba4,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIView@@,0x5791d5,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x5791da,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIText@@,0x579277,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIRadioSet@@,0x57932c,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIButton@@,0x5793de,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTAIMgr@@,0x579490,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTScenarioMgr@@,0x579542,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTGameMgr@@,0x5795f4,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTWorldMgr@@,0x5796a6,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTScriptMgr@@,0x579758,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTHabitatMgr@@,0x57980a,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMegatileMgr@@,0x5798a7,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTAdvTerrainMgr@@,0x579959,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTThoughtMgr@@,0x579a0b,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTResearchMgr@@,0x579abd,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMarketingMgr@@,0x579b6f,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTShowMgr@@,0x579c21,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@ZTMapView@@,0x579cd3,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@ZTHabitatMgr@@,0x57a99f,instances_registrars.csv,MATCH,copies,11,
+copy,s_className@UIText@@,0x57bb35,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIScrollBar@@,0x57bd58,instances_registrars.csv,MATCH,copies,10,
+copy,s_className@UIEditableText@@,0x57c1ad,instances_registrars.csv,MATCH,copies,10,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x58a7ab,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x58a9ad,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x58aa4a,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x58ab3c,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x58ab6c,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x58d276,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x58d2ec,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x5958b4,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x595929,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x595dc5,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x595f06,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x59a3d5,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x59a44a,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x59d3b6,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x59d3e6,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x5a0598,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x5a310e,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x5a3172,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x5a36db,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x5a3c4f,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x5a4709,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x5a4847,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x5a4a45,instances_actions.csv,MATCH,copies,3,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x5a4ae0,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x5a5d35,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x5a6c82,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x5a72d9,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x5a8457,instances_actions.csv,MATCH,copies,3,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x5aa181,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x5b05ae,instances_actions.csv,MATCH,copies,2,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x5b06c2,instances_actions.csv,MATCH,copies,3,
+copy,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,0x612f15,instances_forwarders.csv,MATCH,copies,1,
+copy,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,0x613065,instances_forwarders.csv,MATCH,copies,1,
+copy,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,0x6137ec,instances_forwarders.csv,MATCH,copies,1,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x61a68a,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x61a6fa,instances_actions.csv,MATCH,copies,1,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x61ac58,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x61acc8,instances_actions.csv,MATCH,copies,1,
+copy,@self:??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x61ad92,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafA@@UAE@XZ,0x61ae02,instances_actions.csv,MATCH,copies,1,
+copy,@self:??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x61b25b,instances_actions.csv,MATCH,copies,2,
+copy,@self:??1ZTActionLeafB@@UAE@XZ,0x61b2cb,instances_actions.csv,MATCH,copies,1,
+function,?BFLogV@@YAXPBDHH_NHJ0PAD@Z,0x401363,bflog.BFLog.obj,MATCH,readable,6,1 of our instructions never reached (jump-table data?); 6 unverified references
+function,?BFLog@@YAXPBDHHHHJ_N0ZZ,0x401386,bflog.BFLog.obj,MATCH,readable,0,
+function,?flip@GXVidMan@@QAE_NXZ,0x4013bf,gx.gxvidman.obj,MATCH,readable,3,3 unverified references
+function,?setFlag@UIControl@@QAEXK_N@Z,0x4014ac,ui.uicontrol.obj,MATCH,readable,0,
+function,?getDC@GXCanvas@@QAEPAUHDC__@@XZ,0x4014c8,gx.gxcanvas.obj,MATCH,readable,1,1 unverified references
+function,?releaseDC@GXCanvas@@QAE_NPAUHDC__@@@Z,0x4014f5,gx.gxcanvas.obj,MATCH,readable,1,1 unverified references
+function,?freeData@BFRefDataBase@@QAEXXZ,0x402ec7,misc.bfrefdata.obj,MATCH,readable,2,2 unverified references
+function,?sub@BFMemCounter@@QAEXH@Z,0x402f06,misc.bfrefdata.obj,MATCH,readable,0,
+function,?BFLogHR@@YAXPBDHHHJ0ZZ,0x40514d,bflog.BFLog.obj,MATCH,readable,0,
+function,?getPixel@GXCanvas@@QAEKKK@Z,0x40710e,gx.gxcanvas.obj,MATCH,readable,2,2 unverified references
+function,?setColorKey@GXCanvas@@QAE_NKK@Z,0x4071cd,gx.gxcanvas.obj,MATCH,readable,0,
+function,?getName@DX8Sound@@UAEPBDXZ,0x407374,snd.dx8sound.obj,MATCH,readable,0,
+function,?data@SNDSoundResourceWAV@@QAEPAXXZ,0x407378,snd.sndsoundwav.obj,MATCH,readable,0,
+function,?isPlaying@DX8Sound@@UAE_NXZ,0x40747c,snd.dx8sound.obj,MATCH,readable,0,
+function,?hasName@DX8Sound@@UAE_NXZ,0x4074d3,snd.dx8sound.obj,MATCH,readable,0,
+function,?setVolumeA@DX8Sound@@UAEXJ@Z,0x407523,snd.dx8sound.obj,MATCH,readable,0,
+function,?setVolumeB@DX8Sound@@UAEXJ@Z,0x407555,snd.dx8sound.obj,MATCH,readable,0,
+function,?setVolume@DX8Sound@@UAEXJ@Z,0x40757b,snd.dx8sound.obj,MISMATCH,,,"ours 0x22: 8b 5f 18                 mov ebx, dword ptr [edi + 0x18]"
+function,??1ZTAction@@UAE@XZ,0x41226c,misc.ztaction_dtor.obj,MATCH,readable,1,1 unverified references
+function,??0ZTAction@@QAE@PAUZTEntity@@H@Z,0x4139fd,misc.ztaction.obj,MATCH,readable,1,1 unverified references
+function,??0ZTActionBase@@QAE@PAUZTEntity@@H@Z,0x413a43,misc.ztaction.obj,MATCH,readable,2,2 unverified references
+function,??0ZTActionLeafA@@QAE@PAUZTEntity@@H@Z,0x413ed7,misc.ztaction.obj,MATCH,readable,3,3 unverified references
+function,?prepare@DX8Sound@@QAE_NXZ,0x41c488,snd.dx8sound.obj,MATCH,readable,1,1 unverified references
+function,?instantiateFor@DX8Sound@@UAE_NPAVSNDSoundGroup@@@Z,0x41c77c,snd.dx8sound.obj,MATCH,readable,1,1 unverified references
+function,?getSize@SNDSoundResourceWAV@@QAEKXZ,0x41c789,snd.sndsoundwav.obj,MATCH,readable,0,
+function,?getBitsPerSample@SNDSoundResourceWAV@@QAEGXZ,0x41c79b,snd.sndsoundwav.obj,MATCH,readable,0,
+function,?getFormatTag@SNDSoundResourceWAV@@QAEGXZ,0x41c7a3,snd.sndsoundwav.obj,MATCH,readable,0,
+function,?getCbSize@SNDSoundResourceWAV@@QAEGXZ,0x41c7ab,snd.sndsoundwav.obj,MATCH,readable,0,
+function,?getAvgBytesPerSec@SNDSoundResourceWAV@@QAEKXZ,0x41c7b3,snd.sndsoundwav.obj,MATCH,readable,0,
+function,?getBlockAlign@SNDSoundResourceWAV@@QAEGXZ,0x41c7ba,snd.sndsoundwav.obj,MATCH,readable,0,
+function,?getNumChannels@SNDSoundResourceWAV@@QAEGXZ,0x41c7c2,snd.sndsoundwav.obj,MATCH,readable,0,
+function,?getSampleRate@SNDSoundResourceWAV@@QAEKXZ,0x41c7ca,snd.sndsoundwav.obj,MATCH,readable,0,
+function,?notifyOwner@DX8Sound@@UAEHXZ,0x41e31e,snd.dx8sound.obj,MATCH,readable,0,
+function,?isLost@DX8Sound@@QAE_NXZ,0x41e795,snd.dx8sound.obj,MATCH,readable,0,
+function,?stop@DX8Sound@@UAEXXZ,0x41ed99,snd.dx8sound.obj,MATCH,readable,0,
+function,?Z_4224B0@@YG_NPAUZTEnt6@@H@Z,0x4224b0,misc.typedcall.obj,MATCH,placeholder,0,
+function,??0ZTActionLeafB@@QAE@PAUZTEntity@@H@Z,0x42f860,misc.ztaction.obj,MATCH,readable,2,2 unverified references
+function,??1ZTActionBase@@UAE@XZ,0x43ebe3,misc.ztaction_dtor.obj,MATCH,readable,2,2 unverified references
+function,?play@DX8Sound@@UAEXXZ,0x44369a,snd.dx8sound.obj,MISMATCH,,,"ours 0x4: 8b 4e 0c                 mov ecx, dword ptr [esi + 0xc]"
+function,?create@ZTWorldMgr@@SAPAVBFMgr@@XZ,0x46498e,reg.creates.obj,MATCH,readable,2,2 unverified references
+function,?Z_4A941A@@YG_NPAUZTEnt6@@H@Z,0x4a941a,misc.typedcall.obj,MATCH,placeholder,0,
+function,?drawDitherMirror32@GXLLE@@QAE_NPAVGXCanvas@@PAVGXPalette@@HHPBE@Z,0x4caf3b,gx.gxlledither.obj,MISMATCH,,,"ours 0x0: 83 ec 20                 sub esp, 0x20"
+function,?isMinimized@BFWindow@@QAE_NXZ,0x4d5fb5,gx.gxvidman.obj,MATCH,readable,0,
+function,?releaseSurfaces@GXVidMan@@QAEXXZ,0x4d67a2,gx.gxvidman.obj,MATCH,readable,2,2 unverified references
+function,?createFlippingChain@GXVidMan@@QAE_NXZ,0x4d6ae1,gx.gxvidman.obj,MATCH,readable,0,
+function,?playLooped@DX8Sound@@UAEXXZ,0x4fc592,snd.dx8sound.obj,MISMATCH,,,"ours 0x4: 8b 4e 0c                 mov ecx, dword ptr [esi + 0xc]"
+function,?mute@DX8Sound@@UAEXXZ,0x4ffc6b,snd.dx8sound.obj,MISMATCH,,,"ours 0x1: 8b f1                    mov esi, ecx"
+function,?getVolume@DX8Sound@@UAEJXZ,0x4ffc9f,snd.dx8sound.obj,MATCH,readable,0,
+function,?unmute@DX8Sound@@UAEXXZ,0x4ffd3a,snd.dx8sound.obj,MATCH,readable,0,
+function,?create@UIButton@@SAPAVUIElement@@XZ,0x50f8b0,ui.uibutton.obj,MATCH,readable,1,1 unverified references
+function,??0UIControl@@QAE@XZ,0x50f8e7,ui.uicontrol.obj,MATCH,readable,8,8 unverified references
+function,??0UILayout@@QAE@XZ,0x50f9df,ui.uilayout.obj,MATCH,readable,2,2 unverified references
+function,?create@UILayout@@SAPAVUIElement@@XZ,0x50fa37,ui.uilayout.obj,MATCH,readable,1,1 unverified references
+function,??0UIButton@@QAE@XZ,0x5107eb,ui.uibutton.obj,MATCH,readable,3,3 unverified references
+function,?create@UIText@@SAPAVUIElement@@XZ,0x510a49,reg.creates.obj,MATCH,readable,2,2 unverified references
+function,?create@UIEditableText@@SAPAVUIElement@@XZ,0x510c52,ui.uieditabletext.obj,MATCH,readable,1,1 unverified references
+function,??0UIEditableText@@QAE@XZ,0x510cee,ui.uieditabletext.obj,MISMATCH,,,ours 0x0: 51                       push ecx
+function,?create@UIStatusImage@@SAPAVUIElement@@XZ,0x510f33,ui.uistatusimage.obj,MATCH,readable,4,4 unverified references
+function,?create@UIScrollBar@@SAPAVUIElement@@XZ,0x5111cb,ui.uiscrollbar.obj,MATCH,readable,1,1 unverified references
+function,??0UIScrollBar@@QAE@XZ,0x511212,ui.uiscrollbar.obj,MATCH,readable,6,6 unverified references
+function,?create@UIListBox@@SAPAVUIElement@@XZ,0x511357,ui.uilistbox.obj,MATCH,readable,1,1 unverified references
+function,?create@UIRadioSet@@SAPAVUIElement@@XZ,0x5114fb,ui.uiradioset.obj,MATCH,readable,4,4 unverified references
+function,??0UIListBox@@QAE@XZ,0x5119ea,ui.uilistbox.obj,MATCH,readable,6,6 unverified references
+function,??0UIImageSet@@QAE@XZ,0x512259,ui.uiimageset.obj,MATCH,readable,2,2 unverified references
+function,?create@UIImageSet@@SAPAVUIElement@@XZ,0x512275,ui.uiimageset.obj,MATCH,readable,1,1 unverified references
+function,?create@UIScrollingRegion@@SAPAVUIElement@@XZ,0x5125d8,ui.uiscrollingregion.obj,MATCH,readable,7,7 unverified references
+function,?create@UIGraph@@SAPAVUIElement@@XZ,0x51a7c3,ui.uigraph.obj,MISMATCH,,,"ours 0xb: 33 db                    xor ebx, ebx"
+function,??0UIView@@QAE@XZ,0x52059c,ui.uiview.obj,MATCH,readable,2,2 unverified references
+function,?create@ZTMapView@@SAPAVUIElement@@XZ,0x5205bc,reg.creates.obj,MATCH,readable,2,2 unverified references
+function,?create@ZTMiniMap@@SAPAVUIElement@@XZ,0x520d1c,ui.ztminimap.obj,MATCH,readable,4,4 unverified references
+function,?create@ZTAdvTerrainMgr@@SAPAVBFMgr@@XZ,0x525470,reg.creates.obj,MATCH,readable,2,2 unverified references
+function,?create@ZTGameMgr@@SAPAVBFMgr@@XZ,0x527dc7,reg.creates.obj,MISMATCH,,,ours 0x13: e9 00 00 00 00           jmp 0x18
+function,?BFLogDebugString@@YAXPBD@Z,0x52b8c4,bflog.BFLog.obj,MATCH,readable,0,
+function,?BFLogHResult@@YAX_NJ@Z,0x52b94a,bflog.BFLog.obj,MISMATCH,,,"ours 0x4: 84 c0                    test al, al"
+function,?BFLogMessage@@YAXPBDPAD@Z,0x52b9a2,bflog.BFLog.obj,MATCH,readable,0,
+function,?BFLogLevelName@@YAPBDH@Z,0x52ba65,bflog.BFLog.obj,MATCH,readable,2,2 unverified references
+function,?BFLogHeader@@YAXHPBDH@Z,0x52ba7b,bflog.BFLog.obj,MATCH,readable,0,
+function,?setupWindowed@GXVidMan@@QAE_N_N@Z,0x52f1d0,gx.gxvidman.obj,MATCH,readable,1,1 unverified references
+function,?createBltSurfaces@GXVidMan@@QAE_NXZ,0x52f2a6,gx.gxvidman.obj,MATCH,readable,0,
+function,?createDirectDraw@GXVidMan@@QAE_NPAU_GUID@@@Z,0x533d0a,gx.gxvidman.obj,MATCH,readable,3,3 unverified references
+function,?initialize@GXVidMan@@QAE_NPAUBFWindow@@PAU_GUID@@@Z,0x533db5,gx.gxvidman.obj,MATCH,readable,4,4 unverified references
+function,?getManager@DX8Sound@@UAEPAVDX8SndMgr@@XZ,0x57d5e1,snd.dx8sound.obj,MATCH,readable,1,1 unverified references
+function,?shutdown@GXVidMan@@QAEXXZ,0x57df69,gx.gxvidman.obj,MATCH,readable,2,2 unverified references
+function,?releaseDirectDraw@GXVidMan@@QAEXXZ,0x57e01e,gx.gxvidman.obj,MATCH,readable,1,1 unverified references
+function,?Z_58A953@@YG_NPAUZTEnt6@@H@Z,0x58a953,misc.typedcall.obj,MATCH,placeholder,0,
+function,?create@UIView@@SAPAVUIElement@@XZ,0x604465,ui.uiview.obj,MATCH,readable,1,1 unverified references
+function,?create@UIMessageQueue@@SAPAVUIElement@@XZ,0x606cc4,reg.creates.obj,MATCH,readable,2,2 unverified references
+function,?init@DX8Sound@@UAE_NPAVSNDSoundGroup@@PBD@Z,0x61fd37,snd.dx8sound.obj,MATCH,readable,1,1 unverified references
+function,?isValid@SNDSoundResource@@QAEHXZ,0x62000b,snd.sndsoundresource.obj,MATCH,readable,0,
+function,?getSize@SNDSoundResource@@QAEKXZ,0x620029,snd.sndsoundresource.obj,MATCH,readable,0,
+function,?getCbSize@SNDSoundResource@@QAEGXZ,0x620037,snd.sndsoundresource.obj,MATCH,readable,1,1 unverified references
+function,?getAvgBytesPerSec@SNDSoundResource@@QAEKXZ,0x62005d,snd.sndsoundresource.obj,MATCH,readable,1,1 unverified references
+function,?getBlockAlign@SNDSoundResource@@QAEGXZ,0x620082,snd.sndsoundresource.obj,MATCH,readable,1,1 unverified references
+function,?getNumChannels@SNDSoundResource@@QAEGXZ,0x6200a8,snd.sndsoundresource.obj,MATCH,readable,1,1 unverified references
+function,?getSampleRate@SNDSoundResource@@QAEKXZ,0x6200ce,snd.sndsoundresource.obj,MATCH,readable,1,1 unverified references
+function,?getBitsPerSample@SNDSoundResource@@QAEGXZ,0x6200f3,snd.sndsoundresource.obj,MATCH,readable,1,1 unverified references
+function,?getFormatTag@SNDSoundResource@@QAEGXZ,0x620119,snd.sndsoundresource.obj,MATCH,readable,1,1 unverified references
+function,?data@SNDSoundResource@@QAEPAXXZ,0x620142,snd.sndsoundresource.obj,MATCH,readable,1,1 unverified references
+library,__ftol,0x401049,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\ftol.obj
+library,_memcpy / _memmove,0x401118,libmatch.csv (recorded),RECORDED MATCH-SHAPE,library-shape,,build\intel\st_obj\memcpy.obj
+library,__allmul,0x401d8b,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\llmul.obj
+library,_free,0x4025d7,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\free.obj
+library,___sbh_free_block,0x402644,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\sbheap.obj
+library,__heap_alloc,0x402a1a,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\malloc.obj
+library,__nh_malloc,0x402a3c,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\malloc.obj
+library,___sbh_alloc_block,0x402a68,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\sbheap.obj
+library,__filbuf,0x402d32,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\_filbuf.obj
+library,_tolower,0x40343c,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\tolower.obj
+library,_memcpy / _memmove,0x403d90,libmatch.csv (recorded),RECORDED MATCH-SHAPE,library-shape,,build\intel\st_obj\memcpy.obj
+library,_fread,0x403e06,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\fread.obj
+library,__flush,0x403ffe,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\fflush.obj
+library,__get_osfhandle,0x404027,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\osfinfo.obj
+library,__lseek,0x404057,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\lseek.obj
+library,_fseek,0x404102,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\fseek.obj
+library,_ftell,0x404449,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\ftell.obj
+library,_atol,0x405199,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\atox.obj
+library,__alldiv,0x40574a,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\lldiv.obj
+library,__output,0x40604f,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\output.obj
+library,_write_string,0x40612a,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\output.obj
+library,_write_multi_char,0x40620d,libmatch.csv (recorded),RECORDED MATCH-SHAPE,library-shape,,build\intel\st_obj\output.obj
+library,_write_char,0x406221,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\output.obj
+library,_get_int_arg,0x406670,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\cprintf.obj
+library,_sprintf,0x40667d,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\sprintf.obj
+library,_strncpy,0x4066df,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\strncpy.obj
+library,__aulldiv,0x40674d,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\ulldiv.obj
+library,__aullrem,0x406853,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\ullrem.obj
+library,_strncmp,0x409bdc,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\strncmp.obj
+library,__msize,0x40d212,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\msize.obj
+library,__onexit,0x40d262,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\onexit.obj
+library,_atexit,0x40d299,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\onexit.obj
+library,_realloc,0x40d2ab,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\realloc.obj
+library,___sbh_alloc_new_group,0x40d635,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\sbheap.obj
+library,__alloca_probe / __chkstk,0x40dc83,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\chkstk.obj
+library,_malloc,0x40dca2,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\malloc.obj
+library,VERSION.dll!VerQueryValueA,0x40dcfb,importthunks.csv,MATCH,library,,
+library,_strchr,0x40e879,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\strchr.obj
+library,__mbschr,0x40e8e2,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbschr.obj
+library,_xtoa,0x40eefb,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\xtoa.obj
+library,__itoa,0x40ef4f,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\xtoa.obj
+library,_rand,0x40f103,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\rand.obj
+library,_ceil,0x415f2e,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\ceil.obj
+library,__ctrlfp,0x415fe9,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\fpctrl.obj
+library,__snprintf,0x41b460,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\snprintf.obj
+library,_isspace,0x41b658,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\_ctype.obj
+library,__input,0x41b676,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\input.obj
+library,__un_inc,0x41b8f0,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\input.obj
+library,__whiteout,0x41b8fc,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\input.obj
+library,_sscanf,0x41b958,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\sscanf.obj
+library,__allshl,0x446cc9,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\llshl.obj
+library,__ismbcgraph,0x4491ea,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\ismbgrph.obj
+library,__free_osfhnd,0x4531ef,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\osfinfo.obj
+library,__close,0x453244,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\close.obj
+library,_fclose,0x453334,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\fclose.obj
+library,__freebuf,0x453381,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\_freebuf.obj
+library,__mbctoupper,0x46bbaa,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbtoupr.obj
+library,comdlg32.dll!GetSaveFileNameA,0x477046,importthunks.csv,MATCH,library,,
+library,__write,0x4775a0,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\write.obj
+library,__flsbuf,0x47764e,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\_flsbuf.obj
+library,_fwrite,0x47772e,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\fwrite.obj
+library,__mbsdec,0x47978f,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbsdec.obj
+library,__mbscmp,0x479e97,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbscmp.obj
+library,___sbh_alloc_new_region,0x4ab8c9,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\sbheap.obj
+library,___multtenpow12,0x4b0f63,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\tenpow.obj
+library,_$I10_OUTPUT,0x4b1251,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\x10fout.obj
+library,__cfltcvt,0x4b1566,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\cvt.obj
+library,__fltout,0x4b159a,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\cfout.obj
+library,__cftof,0x4b15fe,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\cvt.obj
+library,___dtold,0x4b1683,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\cfout.obj
+library,__fptostr,0x4b171d,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\_fptostr.obj
+library,__shift,0x4b1789,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\cvt.obj
+library,___shr_12,0x4b1829,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\mantold.obj
+library,___crtLCMapStringA,0x4b2517,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\a_map.obj
+library,__ld12cvt,0x4b384f,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\intrncvt.obj
+library,___strgtold12,0x4b3948,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\strgtold.obj
+library,__CopyMan,0x4b3cb3,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\intrncvt.obj
+library,__RoundMan,0x4b3cce,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\intrncvt.obj
+library,___mtold12,0x4b3e43,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\mantold.obj
+library,__fltin,0x4b4022,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\cfin.obj
+library,_atof,0x4b40ae,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\atof.obj
+library,__ZeroTail,0x4bbfda,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\intrncvt.obj
+library,___tzset,0x4bc00b,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\tzset.obj
+library,___loctotime_t,0x4bc019,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\dtoxtime.obj
+library,_time,0x4bc0c7,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\time.obj
+library,__sopen,0x4c6245,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\open.obj
+library,__fsopen / __wfsopen,0x4c63f8,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\fopen.obj
+library,__openfile,0x4c642e,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\_open.obj
+library,__alloc_osfhnd,0x4c6498,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\osfinfo.obj
+library,__getstream,0x4c6504,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\stream.obj
+library,__getbuf,0x4c6543,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\_getbuf.obj
+library,__set_osfhnd,0x4c6578,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\osfinfo.obj
+library,__cinit,0x4cbe31,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\crt0dat.obj
+library,IMM32.dll!ImmGetDefaultIMEWnd,0x4cc6cb,importthunks.csv,MATCH,library,,
+library,__mbsinc,0x4cc6d1,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbsinc.obj
+library,comdlg32.dll!GetOpenFileNameA,0x4cc7cb,importthunks.csv,MATCH,library,,
+library,_isdigit,0x4d327f,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\_ctype.obj
+library,_memset,0x4f299f,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\memset.obj
+library,__mbsstr,0x51071c,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbsstr.obj
+library,__mbsnbcpy,0x511d10,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbsnbcpy.obj
+library,__fassign,0x522399,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\cvt.obj
+library,__atodbl / __atoflt,0x5223d6,libmatch.csv (recorded),RECORDED MATCH-SHAPE,library-shape,,..\build\intel\st_obj\intrncvt.obj
+library,__vsnprintf,0x52b95d,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\vsnprint.obj
+library,_swprintf,0x52c5d1,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\swprintf.obj
+library,_write_multi_char,0x52c62a,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\output.obj
+library,_write_string,0x52c63e,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\woutput.obj
+library,__woutput,0x52cd7d,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\woutput.obj
+library,_mbtowc,0x52ce21,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbtowc.obj
+library,_fputwc,0x52ce8e,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\fputwc.obj
+library,_write_char,0x52ceb7,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\woutput.obj
+library,ijl15.dll!#2,0x532f9b,importthunks.csv,MATCH,library,,
+library,ijl15.dll!#5,0x533041,importthunks.csv,MATCH,library,,
+library,ijl15.dll!#3,0x5330ae,importthunks.csv,MATCH,library,,
+library,_strcmp,0x533817,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\strcmp.obj
+library,___crtGetStringTypeA,0x53383b,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\a_str.obj
+library,__mbscpy / _strcpy,0x533948,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbscat.obj
+library,__mbscat / _strcat,0x533952,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbscat.obj
+library,_toupper,0x53453a,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\toupper.obj
+library,_strtoxl,0x5345e4,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\strtol.obj
+library,_strtok,0x53491b,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\strtok.obj
+library,__expandlocale,0x534e06,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\setlocal.obj
+library,__setlocale_set_cat,0x534ef4,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\setlocal.obj
+library,_setlocale,0x534fee,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\setlocal.obj
+library,___lc_strtolc,0x535039,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\setlocal.obj
+library,__strcats,0x53513d,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\setlocal.obj
+library,___lc_lctostr,0x535162,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\setlocal.obj
+library,_ProcessCodePage,0x5351b5,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\getqloc.obj
+library,___init_ctype,0x53542b,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\initctyp.obj
+library,VERSION.dll!GetFileVersionInfoSizeA,0x5357d6,importthunks.csv,MATCH,library,,
+library,VERSION.dll!GetFileVersionInfoA,0x5357dc,importthunks.csv,MATCH,library,,
+library,__mbsicmp,0x53588f,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbsicmp.obj
+library,_gmtime,0x53825b,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\gmtime.obj
+library,_localtime,0x53833a,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\localtim.obj
+library,_cvtdate,0x5383fa,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\tzset.obj
+library,__isindst,0x5384b5,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\tzset.obj
+library,_getenv,0x5385c9,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\getenv.obj
+library,__tzset,0x53861c,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\tzset.obj
+library,__ismbblead,0x5387d3,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\ismbbyte.obj
+library,__wincmdln,0x53880c,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\wincmdln.obj
+library,___sbh_resize_block,0x576ecf,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\sbheap.obj
+library,___crtCompareStringA,0x577722,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\a_cmp.obj
+library,__mbsnbicoll,0x577901,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbsnbico.obj
+library,__ioinit,0x57be3a,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\ioinit.obj
+library,__heap_init,0x57becf,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\heapinit.obj
+library,___crtGetEnvironmentStringsA,0x57bf45,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\a_env.obj
+library,_getSystemCP,0x57bfee,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbctype.obj
+library,__abstract_cw,0x57c07e,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\ieee87.obj
+library,___onexitinit,0x57c0f4,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\onexit.obj
+library,_setSBUpLow,0x57c1cb,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbctype.obj
+library,__setargv,0x57c2c3,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\stdargv.obj
+library,_parse_cmdline,0x57c358,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\stdargv.obj
+library,__setenvp,0x57c478,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\stdenvp.obj
+library,__setmbcp,0x57c539,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbctype.obj
+library,___initmbctable,0x57c5d2,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbctype.obj
+library,__hw_cw,0x57c5ee,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\ieee87.obj
+library,__control87,0x57c65f,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\ieee87.obj
+library,__controlfp,0x57c694,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\ieee87.obj
+library,__setdefaultprecision,0x57c6aa,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\fp8.obj
+library,__ms_p5_mp_test_fdiv,0x57c6fa,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\testfdiv.obj
+library,_calloc,0x57c75f,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\calloc.obj
+library,___initstdio,0x57c7bc,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\_file.obj
+library,_doexit,0x57e3f7,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\crt0dat.obj
+library,_exit,0x57e4b7,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\crt0dat.obj
+library,_fflush,0x588626,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\fflush.obj
+library,_flsall,0x58867a,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\fflush.obj
+library,___endstdio,0x5886ba,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\_file.obj
+library,__global_unwind2,0x5b3b6d,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\exsup.obj
+library,_gu_return,0x5b3b85,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\exsup.obj
+library,__unwind_handler,0x5b3b8d,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\exsup.obj
+library,__NLG_Notify,0x5b3c17,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\exsup.obj
+library,__except_handler3,0x5b3c2f,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\exsup3.obj
+library,_strcspn,0x5b3eac,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\strcspn.obj
+library,_strpbrk,0x5b3ee9,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\strpbrk.obj
+library,__amsg_exit,0x5fcef7,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\wincrt0.obj
+library,_fast_error_exit,0x5fcf1c,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\wincrt0.obj
+library,__exit,0x5fcf40,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\crt0dat.obj
+library,__XcptFilter,0x5fcf51,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\winxfltr.obj
+library,_xcptlookup,0x5fd092,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\winxfltr.obj
+library,__FF_MSGBANNER,0x5fd0d5,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\crt0msg.obj
+library,__NMSG_WRITE,0x5fd10e,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\crt0msg.obj
+library,_CPtoLCID,0x5fd261,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbctype.obj
+library,_setSBCS,0x5fd294,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbctype.obj
+library,___crtMessageBoxA,0x5fd2bd,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\crtmbox.obj
+library,__callnewh,0x5fd346,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\handler.obj
+library,KERNEL32.dll!RtlUnwind,0x5fd361,importthunks.csv,MATCH,library,,
+library,_abort,0x629b1c,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\abort.obj
+library,_wcscpy,0x629b33,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\wcscat.obj
+library,__purecall,0x629b58,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\purevirt.obj
+library,_fprintf / _fwprintf,0x629b61,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\fprintf.obj
+library,_isalpha,0x629b93,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\_ctype.obj
+library,__ismbcdigit,0x629bc1,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\ismbdgt.obj
+library,__ismbcprint,0x629c50,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\ismbprn.obj
+library,__mbstrlen,0x629cd7,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\_mbslen.obj
+library,__setlocale_get_all,0x629d31,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\setlocal.obj
+library,_wctomb,0x629dea,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\wctomb.obj
+library,__ltoa,0x629e52,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\xtoa.obj
+library,__strupr,0x629e7c,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\strupr.obj
+library,_raise,0x629f1a,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\winsig.obj
+library,_siglookup,0x62a047,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\winsig.obj
+library,__isctype,0x62a08c,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\isctype.obj
+library,__hextodec,0x62a101,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\cscanf.obj
+library,_get_short_arg,0x62a138,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\cprintf.obj
+library,__forcdecpt,0x62a184,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\cvt.obj
+library,__cropzeros,0x62a1de,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\cvt.obj
+library,__positive,0x62a22c,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\cvt.obj
+library,__cftoe,0x62a244,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\cvt.obj
+library,__cftog,0x62a348,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\cvt.obj
+library,__cftoe_g,0x62a3e3,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\cvt.obj
+library,__cftof_g,0x62a40a,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\cvt.obj
+library,__commit,0x62a42d,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\commit.obj
+library,__stbuf,0x62a484,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\_sftbuf.obj
+library,__ftbuf,0x62a511,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\_sftbuf.obj
+library,_get_int64_arg,0x62a54e,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\cprintf.obj
+library,__handle_qnan1,0x62a55e,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\fpexcept.obj
+library,__except1,0x62a5b1,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\fpexcept.obj
+library,__raise_exc,0x62a649,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\fpexcept.obj
+library,__handle_exc,0x62a8fc,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\fpexcept.obj
+library,__umatherr,0x62ab13,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\fpexcept.obj
+library,__set_errno,0x62ab9b,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\fpexcept.obj
+library,__get_fname,0x62abc1,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\fpexcept.obj
+library,__errcode,0x62abe6,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\fpexcept.obj
+library,__set_exp,0x62ac13,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\util.obj
+library,__sptype,0x62ac3c,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\util.obj
+library,__statfp,0x62ad56,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\fpctrl.obj
+library,__clrfp,0x62ad64,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\fpctrl.obj
+library,__set_statfp,0x62ad73,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\fpctrl.obj
+library,___init_time,0x62adc9,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\inittime.obj
+library,__get_lc_time,0x62ae5a,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\inittime.obj
+library,__free_lc_time,0x62b1a8,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\inittime.obj
+library,___init_numeric,0x62b338,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\initnum.obj
+library,___init_monetary,0x62b50d,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\initmon.obj
+library,__get_lc_lconv,0x62b5d8,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\initmon.obj
+library,_fix_grouping,0x62b6fa,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\initmon.obj
+library,__free_lc_lconv,0x62b731,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\initmon.obj
+library,_TranslateName,0x62b782,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\getqloc.obj
+library,_GetLcidFromLangCountry,0x62b7da,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\getqloc.obj
+library,_LangCountryEnumProc@4,0x62b861,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\getqloc.obj
+library,_GetLcidFromLanguage,0x62ba65,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\getqloc.obj
+library,_LanguageEnumProc@4,0x62babb,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\getqloc.obj
+library,_GetLcidFromCountry,0x62bb78,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\getqloc.obj
+library,_CountryEnumProc@4,0x62bbaf,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\getqloc.obj
+library,_TestDefaultCountry,0x62bc35,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\getqloc.obj
+library,_TestDefaultLanguage,0x62bc54,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\getqloc.obj
+library,_LcidFromHexString,0x62bcb6,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\getqloc.obj
+library,_GetPrimaryLen,0x62bcef,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\getqloc.obj
+library,__dosmaperr,0x62bd10,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\dosmap.obj
+library,_ungetc,0x62bd77,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\ungetc.obj
+library,__isatty,0x62bde5,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\isatty.obj
+library,__FillZeroMan,0x62be0b,libmatch.csv (recorded),RECORDED MATCH,library,,..\build\intel\st_obj\intrncvt.obj
+library,__atodbl / __atoflt,0x62be17,libmatch.csv (recorded),RECORDED MATCH-SHAPE,library-shape,,..\build\intel\st_obj\intrncvt.obj
+library,___getlocaleinfo,0x62bea5,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\inithelp.obj
+library,___wtomb_environ,0x62bfdd,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\wtombenv.obj
+library,__chsize,0x62c04b,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\chsize.obj
+library,__flswbuf,0x62c191,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\_flswbuf.obj
+library,___crtGetLocaleInfoW,0x62c2b5,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\w_loc.obj
+library,___crtGetLocaleInfoA,0x62c3c8,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\a_loc.obj
+library,___crtsetenv,0x62c4e6,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\setenv.obj
+library,_findenv,0x62c66d,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\setenv.obj
+library,_copy_environ,0x62c6c5,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\setenv.obj
+library,__setmode,0x62c72c,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\setmode.obj
+library,__mbsdup / __strdup,0x62c7a2,libmatch.csv (recorded),RECORDED MATCH,library,,build\intel\st_obj\mbsdup.obj
+library,IMM32.dll!ImmReleaseContext,0x62c7cd,importthunks.csv,MATCH,library,,
+library,IMM32.dll!ImmNotifyIME,0x62c7d3,importthunks.csv,MATCH,library,,
+library,IMM32.dll!ImmGetOpenStatus,0x62c7d9,importthunks.csv,MATCH,library,,
+library,IMM32.dll!ImmGetContext,0x62c7df,importthunks.csv,MATCH,library,,

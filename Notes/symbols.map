@@ -1,0 +1,6 @@
+# Known addresses of symbols we reference but have not written (yet).
+# Used ONLY by the relocation-target check (Tools/symcheck.py); zoo.map stays the list of written functions.
+# A wrong address here makes every function that uses it fail, so entries verify themselves.
+# Format as zoo.map:  part-of-decorated-name = 0xVA
+?g_uiManager@@ = 0x638DE0      # UIManager g_uiManager (CLAUDE.md)
+?find@UIManager@@ = 0x40157D   # UIControl* UIManager::find(int id)

@@ -1,0 +1,16 @@
+va,key,shape,status
+0x4102fc,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,forwarder,MATCH
+0x411eb8,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,forwarder,MATCH
+0x41c922,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,forwarder,MATCH
+0x41e32a,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,forwarder,MATCH
+0x436c86,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,forwarder,MATCH
+0x439c73,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,forwarder,MATCH
+0x4405b3,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,forwarder,MATCH
+0x477326,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,forwarder,MATCH
+0x4a4d5f,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,forwarder,MATCH
+0x4aaf2d,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,forwarder,MATCH
+0x4f5c4b,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,forwarder,MATCH
+0x4fbe42,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,forwarder,MATCH
+0x612f15,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,forwarder,MATCH
+0x613065,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,forwarder,MATCH
+0x6137ec,?instantiate@DX8Sound@@QAE_NPAVSNDSoundGroup@@@Z,forwarder,MATCH

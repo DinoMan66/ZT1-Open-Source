@@ -1,0 +1,15 @@
+va,name,status
+0x40dcfb,VERSION.dll!VerQueryValueA,MATCH
+0x477046,comdlg32.dll!GetSaveFileNameA,MATCH
+0x4cc6cb,IMM32.dll!ImmGetDefaultIMEWnd,MATCH
+0x4cc7cb,comdlg32.dll!GetOpenFileNameA,MATCH
+0x532f9b,ijl15.dll!#2,MATCH
+0x533041,ijl15.dll!#5,MATCH
+0x5330ae,ijl15.dll!#3,MATCH
+0x5357d6,VERSION.dll!GetFileVersionInfoSizeA,MATCH
+0x5357dc,VERSION.dll!GetFileVersionInfoA,MATCH
+0x5fd361,KERNEL32.dll!RtlUnwind,MATCH
+0x62c7cd,IMM32.dll!ImmReleaseContext,MATCH
+0x62c7d3,IMM32.dll!ImmNotifyIME,MATCH
+0x62c7d9,IMM32.dll!ImmGetOpenStatus,MATCH
+0x62c7df,IMM32.dll!ImmGetContext,MATCH

@@ -1,0 +1,4 @@
+functions still to do: 4790
+trivial (C++ generated): 0  
+identical-code clusters: 114 (3 free wins); functions covered by another cluster member: 149
+left for real work: about 4641
