@@ -1,5 +1,10 @@
 # Functions that look compiler-limited
 
+**Re-opened 2026-11-03:** zoo.exe was built with the compiler we have (c2 12.00.8447), so a remaining difference
+means an input differs (source shape, headers such as STLport, flags, or BBT), not that this compiler cannot
+produce the code. The six functions that were listed as final were moved to Notes/OPEN_WALLS.md with their
+history; the rows below are removed functions kept for reference.
+
 Compiler: VC6 SP3 c1/c1xx/c2 (c2.dll 12.00.8447 = the game's build stamp), /O2.
 
 **Revised 2026-10-21 (round 035):** several "compiler" differences were the post-link optimizer (BBT),
@@ -9,10 +14,6 @@ matched GXCanvas::getDC, DX8Sound::isPlaying, DX8Sound::isLost and BFLogV.
 
 | Function | Address | Symptom |
 |---|---|---|
-| DX8Sound::setVolume | 0x40757B | load order / registers of the attenuation sum; helper-function shapes tried; re-checked round 239 (inline helpers, early return): final |
-| DX8Sound::play / playLooped | 0x44369A / 0x4FC592 | mBuffer loaded into ecx (ours) vs eax (original); re-checked round 239 (inline helpers for the condition/sum, early return): final |
-| DX8Sound::mute | 0x4FFC6B | ours folds -(v+g+b+a), original negates then subtracts each term; re-checked round 239 (sequenced statements, named local): final |
-| BFLogHResult | 0x52B94A | callee-saved pushes before the `if (hasHr)` instead of inside it (shrink-wrap); re-checked round 239 (local at function scope, early return): final |
 | (removed 2026-10-27) Src/misc/strreturn.cpp Z_5FE02D + 5 copies | 0x5FE02D.. | `lea ecx,[esi+eax]` (ours) vs `[eax+esi]` in the inlined _M_allocate_block; 4 source forms tried (round 178) |
 
 | (removed 2026-10-27) Src/misc/smallpairs2.cpp Z_58FD9F/Z_591325 | 0x58FD9F | regalloc: original keeps `id` in ebp and reloads `arg`; ours the reverse (int and float arg tried, round 215) |

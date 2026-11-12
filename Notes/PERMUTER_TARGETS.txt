@@ -1,0 +1,9 @@
+# Overnight permuter targets: "<folder\file.cpp> <Class::method>" per line (Tools\permuter\permute.py --auto).
+# Seeded 2026-11-12 from the parked near misses in CLAUDE.md "Current state"; sessions add to this file.
+gx\gxlledither.cpp GXLLE::drawDitherMirror32
+gx\gxlle.cpp GXLLE::draw16
+gx\gxlle.cpp GXLLE::drawMirror16
+gx\gximagetga.cpp GXImageTGA::attempt
+gx\gximagebmp.cpp GXImageBMP::attempt
+ui\uiimage.cpp UIImage::vslot43
+ui\uiimage.cpp UIImage::hide
