@@ -2,22 +2,15 @@
 // Original functions (zoo.exe): see Notes\zoo.map, "BFLog" entries.
 
 #include "BFLog.h"
+#include "bfapp.h"
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
 
 // ---- outside this file (addresses in the original) ----
-struct BFApp;
-BFApp* BFGetApp();                                       // 0x4010C7
 const char* BFDXErrorString(HRESULT hr);                 // 0x603505 (DirectX error table)
 void BFLogWriteFile(const char* text, unsigned int len); // 0x6033BA
 void BFLogDebugString(const char* text);                 // 0x52B8C4
-
-struct BFApp
-{
-    char pad[0x4C4];
-    HWND m_hwnd;
-};
 
 static char s_line[1024];      // 0x64567C: the line being built
 static char s_tmp[1024];       // 0x645A7C: scratch for one piece
@@ -56,27 +49,23 @@ void BFLogMessage(const char* fmt, va_list args)
     strcat(s_line, s_tmp);
 }
 
-// 0x52B94A  OPEN: the original saves ebx/esi/edi before the hasHr test; ours saves them inside the if.
-//            Tried: function-scope locals, early return, both, a copied hr - no change.
+// 0x52B94A  each branch appends its own text (one strcat per branch, not a shared `text` pointer)
 void BFLogHResult(bool hasHr, HRESULT hr)
 {
     if (hasHr)
     {
-        const char* text;
         sprintf(s_tmp, "  HRESULT [0x%8x][%d]: ", hr, hr & 0xFFFF);
         strcat(s_line, s_tmp);
         const char* dx = BFDXErrorString(hr);
         if (dx)
         {
             strcat(s_line, dx);
-            text = "\n";
+            strcat(s_line, "\n");
         }
+        else if (FormatMessageA(FORMAT_MESSAGE_FROM_SYSTEM, 0, hr, 0, s_tmp, sizeof(s_tmp), 0))
+            strcat(s_line, s_tmp);
         else
-        {
-            text = FormatMessageA(FORMAT_MESSAGE_FROM_SYSTEM, 0, hr, 0, s_tmp, sizeof(s_tmp), 0)
-                 ? s_tmp : "Unknown\n";
-        }
-        strcat(s_line, text);
+            strcat(s_line, "Unknown\n");
     }
 }
 

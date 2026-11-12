@@ -3,6 +3,7 @@
 #ifndef REGISTERED_CLASSES_H
 #define REGISTERED_CLASSES_H
 #include "BFRegistry.h"
+#include "ztgamemgr.h"
 
 #define BF_REG_STUB(cls, base) \
     class cls { public: static const char s_className[]; static bool s_registered; static base* create(); }
@@ -13,7 +14,6 @@
 BF_REG_STUB(DX8SndMgr, BFMgr);
 BF_REG_STUB(ZTAIMgr, BFMgr);
 BF_REG_SIZED(ZTAdvTerrainMgr, BFMgr, 0x1dc);
-BF_REG_SIZED(ZTGameMgr, BFMgr, 0x11b0);
 BF_REG_STUB(ZTHabitatMgr, BFMgr);
 BF_REG_STUB(ZTMarketingMgr, BFMgr);
 BF_REG_STUB(ZTMegatileMgr, BFMgr);

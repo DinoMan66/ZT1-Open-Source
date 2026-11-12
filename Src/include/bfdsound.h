@@ -8,6 +8,20 @@
 #define DSBSTATUS_PLAYING     0x00000001
 #define DSBSTATUS_BUFFERLOST  0x00000002
 #define DSBPLAY_LOOPING       0x00000001
+#define DSBCAPS_PRIMARYBUFFER 0x00000001
+#define DSBCAPS_CTRLPAN       0x00000040
+#define DSBCAPS_CTRLVOLUME    0x00000080
+#define DSSCL_PRIORITY        0x00000002
+
+struct DSBUFFERDESC                                                         // 0x24 bytes (DX7+ layout)
+{
+    DWORD          dwSize;
+    DWORD          dwFlags;
+    DWORD          dwBufferBytes;
+    DWORD          dwReserved;
+    LPWAVEFORMATEX lpwfxFormat;
+    GUID           guid3DAlgorithm;
+};
 
 struct IDirectSoundBuffer8 : public IUnknown
 {
@@ -33,4 +47,21 @@ struct IDirectSoundBuffer8 : public IUnknown
     STDMETHOD(AcquireResources)(DWORD, DWORD, LPDWORD) PURE;
     STDMETHOD(GetObjectInPath)(REFGUID, DWORD, REFGUID, LPVOID*) PURE;
 };
+
+// The primary sound device object (the one CoCreateInstance(CLSID_DirectSound) returns).
+struct IDirectSound : public IUnknown
+{
+    STDMETHOD(CreateSoundBuffer)(const DSBUFFERDESC*, IDirectSoundBuffer8**, IUnknown*) PURE;   // 0x0C
+    STDMETHOD(GetCaps)(void*) PURE;
+    STDMETHOD(DuplicateSoundBuffer)(IDirectSoundBuffer8*, IDirectSoundBuffer8**) PURE;
+    STDMETHOD(SetCooperativeLevel)(HWND, DWORD) PURE;                       // 0x18
+    STDMETHOD(Compact)() PURE;
+    STDMETHOD(GetSpeakerConfig)(LPDWORD) PURE;
+    STDMETHOD(SetSpeakerConfig)(DWORD) PURE;
+    STDMETHOD(Initialize)(const GUID*) PURE;                                // 0x28
+};
+
+extern "C" const GUID CLSID_DirectSound;                                    // 0x6359D0 {47D4D946-62E8-11CF-93BC-444553540000}
+extern "C" const GUID IID_IDirectSound;                                     // 0x6359C0 {279AFA83-4981-11CE-A521-0020AF0BE560}
+
 #endif

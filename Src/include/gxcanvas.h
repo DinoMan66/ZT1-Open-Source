@@ -8,6 +8,8 @@
 class GXCanvas
 {
 public:
+    ~GXCanvas();                                   // 0x40511C
+    GXCanvas& operator=(const GXCanvas& other);    // 0x41BC05: takes over the other canvas's surface
     DWORD getPixel(DWORD x, DWORD y);
     bool  setColorKey(DWORD x, DWORD y);
     HDC   getDC();

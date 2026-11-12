@@ -1,5 +1,5 @@
 // sndsoundwav.h - SNDSoundResourceWAV: a .wav file loaded as one block.
-// vtable at 0x6351AC: 0 dtor 0x41E5C5, 2 attempt 0x41C4C2, 7 getSize 0x41C789, 8-15 getters below.
+// vtable at 0x6351AC: 0 dtor 0x41E5C5, 2 attempt 0x41C4C2, 4 0x4072A3, 5 isValid 0x40733D, 7 getSize 0x41C789, 8-15 getters below.
 #ifndef SNDSOUNDWAV_H
 #define SNDSOUNDWAV_H
 #include "sndsoundresource.h"
@@ -25,6 +25,8 @@ struct SNDWavHeader                  // canonical 44-byte RIFF/WAVE header
 class SNDSoundResourceWAV : public SNDSoundResource
 {
 public:
+    bool  attempt(DX8SndMgr* owner, const char* name);   // 0x41C4C2
+    bool  isValid();                                         // 0x40733D
     DWORD getSize();
     WORD  getCbSize();
     DWORD getAvgBytesPerSec();

@@ -27,6 +27,12 @@ class GXLLE
 public:
     // gxlledither.cpp: draw blended 50% with a colour (B, G, R), mirrored, 32-bit target
     bool drawDitherMirror32(GXCanvas* canvas, GXPalette* palette, int x, int y, const BYTE* color);
+    // gxlledither.cpp: the same for a 24-bit target (no alpha byte)
+    bool drawDitherMirror24(GXCanvas* canvas, GXPalette* palette, int x, int y, const BYTE* color);
+
+    // gxlle.cpp: draw unblended at zoom 1 to a 16-bit target, plain and mirrored
+    bool draw16(GXCanvas* canvas, GXPalette* palette, int x, int y);
+    bool drawMirror16(GXCanvas* canvas, GXPalette* palette, int x, int y);
 
     GXLLEFrame* mFrame;      // +0x00
 };

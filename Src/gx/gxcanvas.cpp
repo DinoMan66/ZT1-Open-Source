@@ -3,6 +3,12 @@
 #include <string.h>
 #include "gxcanvas.h"
 
+// 0x40511C
+GXCanvas::~GXCanvas()
+{
+    releaseSurface();
+}
+
 // 0x40710E
 DWORD GXCanvas::getPixel(DWORD x, DWORD y)
 {

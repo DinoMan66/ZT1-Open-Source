@@ -279,3 +279,10 @@ void GXVidMan::releaseSurfaces()
         mBack = NULL;
     }
 }
+
+// 0x41BA54
+// name: guess (creates an off-screen surface of the given size)
+GXCanvas GXVidMan::createSurface(int width, int height)
+{
+    return createSurfaceWithCaps(width, height, 0x840);
+}

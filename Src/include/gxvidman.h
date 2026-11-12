@@ -24,6 +24,8 @@ public:
     void releaseSurfaces();
     bool flip();
     bool createFlippingChain();
+    GXCanvas createSurface(int width, int height);   // 0x41BA54: 0x840 = DDSCAPS_OFFSCREENPLAIN | DDSCAPS_SYSTEMMEMORY
+    GXCanvas createSurfaceWithCaps(int width, int height, DWORD caps);   // 0x41BA74; name: guess; body not written
 
     bool useFlipping() { return mFullscreen && mFlipping && !mForceBlt; }
 
@@ -40,5 +42,7 @@ public:
     GXCanvas             mPrimaryCanvas;  // +0x24
     GXCanvas             mBackCanvas;     // +0xBC
 };
+
+extern GXVidMan* g_gxVidMan;          // 0x638050
 
 #endif

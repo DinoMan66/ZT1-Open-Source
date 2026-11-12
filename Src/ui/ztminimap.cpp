@@ -22,7 +22,10 @@ class ZTMiniMap : public UIImage
 {
 public:
     ZTMiniMap();
+    ZTMiniMap(const ZTMiniMap& other);                // 0x619477
     static UIElement* create();
+    virtual UIControl* clone();                    // slot 12, 0x6198D7
+    virtual void vslot56(int a);                   // 0x4B2477
 
     int  m_unk35C;
     int  m_unk360;
@@ -38,6 +41,7 @@ public:
 ZTMiniMap::ZTMiniMap()
     : m_unk394(false), m_minX(INT_MIN), m_maxX(INT_MAX), m_minY(INT_MIN), m_maxY(INT_MAX)
 {
+    // a plain store here: setUnk34E() would change what VC6 inlines (MATCHING_NOTES 66)
     m_unk34E = true;
 }
 
@@ -45,4 +49,17 @@ ZTMiniMap::ZTMiniMap()
 UIElement* ZTMiniMap::create()
 {
     return (UIElement*)new ZTMiniMap;
+}
+
+// slot 12, 0x6198D7
+UIControl* ZTMiniMap::clone()
+{
+    return new ZTMiniMap(*this);
+}
+
+// slot 56, 0x4B2477
+void ZTMiniMap::vslot56(int a)
+{
+    m_unk394 = true;
+    UIControl::vslot56(a);
 }

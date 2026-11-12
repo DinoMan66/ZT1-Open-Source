@@ -15,9 +15,6 @@ UIElement* ZTMapView::create() { return (UIElement*)new ZTMapView; }
 // 0X525470  new ZTAdvTerrainMgr (size 0x1dc)
 BFMgr* ZTAdvTerrainMgr::create() { return (BFMgr*)new ZTAdvTerrainMgr; }
 
-// 0X527DC7  new ZTGameMgr (size 0x11b0)
-BFMgr* ZTGameMgr::create() { return (BFMgr*)new ZTGameMgr; }
-
 // 0X606CC4  new UIMessageQueue (size 0x45c)
 UIElement* UIMessageQueue::create() { return (UIElement*)new UIMessageQueue; }
 

@@ -1,10 +1,35 @@
 // sndsoundwav.cpp - SNDSoundResourceWAV (original: C:\aqua\src\snd\sndsoundwav.cpp).
 #include "sndsoundwav.h"
 
+// 0x41C4C2
+// name: string ("SNDSoundResourceWAV::attempt(%s) - load failed")
+bool SNDSoundResourceWAV::attempt(DX8SndMgr* owner, const char* name)
+{
+    if (!owner->isValid())
+        return false;
+    vf4();
+    if (!mHandle.load(name))
+    {
+#line 69 "C:\\aqua\\src\\snd\\sndsoundwav.cpp"
+        BFLog(BFLOG_ARGS(BFLOG_NOTE), "SNDSoundResourceWAV::attempt(%s) - load failed", name);
+        return false;
+    }
+    mHeader = mHandle.mEntry ? (SNDWavHeader*)mHandle.mEntry->mData : 0;
+    mData = mHeader + 1;
+    return true;
+}
+
+// 0x40733D: valid once the resource is loaded and the header and sample data pointers are set
+// name: vtable (overrides SNDSoundResource::isValid, slot 5)
+bool SNDSoundResourceWAV::isValid()
+{
+    return mHandle.mEntry && mHandle.mEntry->mUnknown4 && mHandle.mEntry->mUnknown8 && mHeader && mData;
+}
+
 // 0x41C789: the sample data size = resource size minus the 44-byte header
 DWORD SNDSoundResourceWAV::getSize()
 {
-    return (mEntry ? mEntry->mSize : 0) - sizeof(SNDWavHeader);
+    return (mHandle.mEntry ? mHandle.mEntry->mSize : 0) - sizeof(SNDWavHeader);
 }
 
 WORD  SNDSoundResourceWAV::getCbSize()         { return mHeader->mFmtSize; }        // 0x41C7AB
