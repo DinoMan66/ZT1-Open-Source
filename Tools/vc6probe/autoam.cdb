@@ -1,0 +1,12 @@
+$$ autoam.cdb - run at entry of c2 FUN_1071f60f / FUN_107216d8 (build an address operand: base = [esp+0xc],
+$$ index = [esp+0x10]). $t19 = 6 or 5 (which builder). Prints the caller, the source line and base / index as
+$$ kind/symbol id (operand +0x14 -> +0x1c).
+r $t1 = poi(@esp+0xc)
+r $t2 = poi(@esp+0x10)
+r $t3 = 0
+r $t4 = 0
+r $t5 = 0
+r $t6 = 0
+.if (@$t1 != 0) { r $t3 = by(@$t1+8); .if (@$t3 == 1) { r $t5 = poi(poi(@$t1+14)+1c) } }
+.if (@$t2 != 0) { r $t4 = by(@$t2+8); .if (@$t4 == 1) { r $t6 = poi(poi(@$t2+14)+1c) } }
+.printf "M%d op=%x ret=%x line=%d base=%d/%x idx=%d/%x\n", @$t19, @ecx, poi(@esp), poi(0x107ac360) & 0xffff, @$t3, @$t5, @$t4, @$t6

@@ -1,0 +1,13 @@
+$$ autorw.cdb - run at entry of c2 FUN_1072735c (ecx = an assignment tuple, op 0x15b). Prints the source line,
+$$ the tuple type, the destination and the source operand (kind/id, raw +0x14 and +0x18 pointers), and for a
+$$ source temp its defining tuple's operands, one more level deep for operands that are temps with a definition.
+r $t1 = @ecx
+r $t2 = poi(@$t1+1c)
+r $t3 = poi(@$t1+18)
+r $t4 = 0
+r $t5 = 0
+.if (by(@$t2+8) == 1) { r $t4 = poi(poi(@$t2+14)+1c) }
+.if (by(@$t3+8) == 1) { r $t5 = poi(poi(@$t3+14)+1c) }
+.printf "E line=%d ty=%x dest=%d/%x[%x,%x] src=%d/%x", wo(0x107ac360), wo(@$t1+a), by(@$t2+8), @$t4, poi(@$t2+14), poi(@$t2+18), by(@$t3+8), @$t5
+.if (by(@$t3+8) == 1) { r $t6 = poi(poi(@$t3+14)+14); .if (@$t6 > 0x10000) { .printf " def=%x(", poi(@$t6+4); r $t7 = poi(@$t6+18); r $t8 = 0; .while ((@$t7 != 0) & (@$t8 < 5)) { r $t8 = @$t8 + 1; r $t9 = 0; r $t10 = 0; .if (by(@$t7+8) == 1) { r $t9 = poi(poi(@$t7+14)+1c); r $t10 = poi(poi(@$t7+14)+14) }; .if (by(@$t7+8) == 7) { r $t9 = poi(@$t7+18) }; .printf "%d/%x", by(@$t7+8), @$t9; .if (@$t10 > 0x10000) { .printf "=%x(", poi(@$t10+4); r $t11 = poi(@$t10+18); r $t12 = 0; .while ((@$t11 != 0) & (@$t12 < 5)) { r $t12 = @$t12 + 1; r $t13 = 0; .if (by(@$t11+8) == 1) { r $t13 = poi(poi(@$t11+14)+1c) }; .if (by(@$t11+8) == 7) { r $t13 = poi(@$t11+18) }; .printf "%d/%x[%x,%x] ", by(@$t11+8), @$t13, poi(@$t11+14), poi(@$t11+18); .if (by(@$t11+8) == 0) { .break }; r $t11 = poi(@$t11) }; .printf ")" }; .printf " "; .if (by(@$t7+8) == 0) { .break }; r $t7 = poi(@$t7) }; .printf ")" } }
+.printf "\n"

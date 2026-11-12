@@ -1,0 +1,15 @@
+$$ autoblk.cdb - with $t1 = a c2 function record (+8 -> pointer to the first block, blocks linked by +0):
+$$ prints every block as <low 16 bits of address>:<first source line> (0 = no line note) on one line.
+r $t2 = poi(poi(@$t1+8))
+r $t12 = 0
+.while ((@$t2 != 0) & (@$t12 < 0n600)) {
+  r $t12 = @$t12 + 1
+  r $t15 = poi(@$t2+0x20)
+  r $t16 = poi(@$t2+0x1c)
+  r $t17 = 0
+  r $t18 = 0
+  .while ((@$t15 != 0) & (@$t15 != @$t16) & (@$t18 < 0n300)) { r $t18 = @$t18 + 1; .if ((by(@$t15+0x9) & 1) != 0) { .if (wo(@$t15+0x10) != 0) { r $t17 = wo(@$t15+0x10); .break } }; r $t15 = poi(@$t15+0xc) }
+  .printf "%x:%d,", @$t2 & 0xffff, @$t17
+  r $t2 = poi(@$t2)
+}
+.printf "\n"

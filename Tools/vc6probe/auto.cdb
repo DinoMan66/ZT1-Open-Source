@@ -1,0 +1,6 @@
+$$ automatic variant of weights.cdb (cwd = Probe\weights\in)
+sxe ld:c2.dll
+g
+bp 0x1072450d "gu; $$>a<..\autolist.cdb; g"
+g
+q

@@ -1,0 +1,11 @@
+$$ autoprio.cdb - run at the three priority updates of c2 FUN_10722463 (per block, after the block's pressure P
+$$ is known): $t19 = 1/2 (referenced: priority += P * benefit) or 3 (live, not referenced: priority -= P).
+$$ eax = the candidate record, esi = P, [esp+0x28] = the block. Prints
+$$ "Q k=<kind> id=<id> P=<P> b=<benefit> pri=<priority before> line=<first source line of the block>".
+r $t0 = poi(@esp+0x28)
+r $t15 = poi(@$t0+0x20)
+r $t16 = poi(@$t0+0x1c)
+r $t17 = 0
+r $t18 = 0
+.while ((@$t15 != 0) & (@$t15 != @$t16) & (@$t18 < 0n200)) { r $t18 = @$t18 + 1; .if ((by(@$t15+0x9) & 1) != 0) { .if (wo(@$t15+0x10) != 0) { r $t17 = wo(@$t15+0x10); .break } }; r $t15 = poi(@$t15+0xc) }
+.printf "Q k=%d id=%d P=%d b=%d pri=%d blk=%x line=%d\n", @$t19, poi(@eax+0x1c), @esi, poi(@eax+0x18), poi(@eax+0xc), @$t0 & 0xffff, @$t17

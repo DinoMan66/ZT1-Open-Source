@@ -1,0 +1,3 @@
+r $t0 = poi(0x1079d864)
+.printf "--- priority list (highest first)\n"
+.while (@$t0 != 0) { .printf "rec=%p id=%3d pri=%9d weight=%7d tie=%08x refs=%3d raw=%5d f4=%08x sym=%p\n", @$t0, poi(@$t0+1c), poi(@$t0+c), poi(@$t0+3c), poi(@$t0+40), poi(@$t0+24), poi(@$t0+18), poi(@$t0+4), poi(@$t0); dd poi(@$t0) L8; .if (poi(poi(@$t0)) != 0) { db poi(poi(@$t0)) L40; .printf "name: "; da poi(poi(poi(@$t0))+18) }; r $t0 = poi(@$t0+14) }

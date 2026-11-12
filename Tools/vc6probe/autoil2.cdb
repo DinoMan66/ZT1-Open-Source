@@ -1,0 +1,7 @@
+$$ autoil.cdb - run right after c2 has read a function's intermediate code (return of FUN_1071b973, eax = the
+$$ function record). Prints every tuple: "I line op dest = operands", operands as kind/id (kind 1: symbol id,
+$$ with * for compiler temps, kind 7: constant, kind 6: memory with base/index ids).
+r $t1 = poi(poi(poi(@eax+8))+1c)
+r $t2 = 0
+.printf "FUNC\n"
+.while ((@$t1 != 0) & (@$t2 < 0n600)) { r $t2 = @$t2 + 1; .printf "I %d op=%x d=", wo(@$t1+10), poi(@$t1+4); r $t3 = poi(@$t1+1c); .if (@$t3 > 0x10000) { .if (by(@$t3+8) == 1) { .printf "%x", poi(poi(@$t3+14)+1c); .if (by(poi(@$t3+14)+4) == 3) { .printf "*" } } .else { .printf "k%d:%x", by(@$t3+8), poi(@$t3+14) } }; .printf " :"; r $t4 = poi(@$t1+18); r $t5 = 0; .while ((@$t4 > 0x10000) & (@$t5 < 6)) { r $t5 = @$t5 + 1; r $t6 = by(@$t4+8); .if (@$t6 == 1) { .printf " %x", poi(poi(@$t4+14)+1c); .if (by(poi(@$t4+14)+4) == 3) { .printf "*" } } .elsif (@$t6 == 7) { .printf " #%x", poi(@$t4+18) } .elsif ((@$t6 == 6) | (@$t6 == 5)) { .printf " [m"; r $t7 = poi(@$t4+28); .if (@$t7 > 0x10000) { .if (by(@$t7+8) == 1) { .printf " %x", poi(poi(@$t7+14)+1c) } }; r $t7 = poi(@$t4+2c); .if (@$t7 > 0x10000) { .if (by(@$t7+8) == 1) { .printf "+%x", poi(poi(@$t7+14)+1c) } }; .printf " d%x]", poi(@$t4+20) } .elsif (@$t6 == 2) { .printf " k2:%x", poi(@$t4+14) } .else { .printf " k%d", @$t6 }; .if (@$t6 == 0) { .break }; r $t4 = poi(@$t4) }; .printf "\n"; r $t1 = poi(@$t1) }

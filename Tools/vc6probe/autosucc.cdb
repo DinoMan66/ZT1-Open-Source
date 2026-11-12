@@ -1,0 +1,22 @@
+$$ autosucc.cdb - with $t1 = a c2 function record: prints every block as <first source line>><successor lines>
+$$ (successor list at block+0xc: edge+0 = next edge, edge+0xc = target block), in block-list order.
+r $t2 = poi(poi(@$t1+8))
+r $t12 = 0
+.while ((@$t2 != 0) & (@$t12 < 0n600)) {
+  r $t12 = @$t12 + 1
+  r $t3 = @$t2
+  r $t15 = poi(@$t3+0x20); r $t16 = poi(@$t3+0x1c); r $t17 = 0; r $t18 = 0; .while ((@$t15 != 0) & (@$t15 != @$t16) & (@$t18 < 0n300)) { r $t18 = @$t18 + 1; .if ((by(@$t15+0x9) & 1) != 0) { .if (wo(@$t15+0x10) != 0) { r $t17 = wo(@$t15+0x10); .break } }; r $t15 = poi(@$t15+0xc) }
+  .printf "%d>", @$t17
+  r $t4 = poi(@$t2+0xc)
+  r $t13 = 0
+  .while ((@$t4 != 0) & (@$t13 < 0n20)) {
+    r $t13 = @$t13 + 1
+    r $t3 = poi(@$t4+0xc)
+    r $t15 = poi(@$t3+0x20); r $t16 = poi(@$t3+0x1c); r $t17 = 0; r $t18 = 0; .while ((@$t15 != 0) & (@$t15 != @$t16) & (@$t18 < 0n300)) { r $t18 = @$t18 + 1; .if ((by(@$t15+0x9) & 1) != 0) { .if (wo(@$t15+0x10) != 0) { r $t17 = wo(@$t15+0x10); .break } }; r $t15 = poi(@$t15+0xc) }
+    .printf "%d/", @$t17
+    r $t4 = poi(@$t4)
+  }
+  .printf ","
+  r $t2 = poi(@$t2)
+}
+.printf "\n"

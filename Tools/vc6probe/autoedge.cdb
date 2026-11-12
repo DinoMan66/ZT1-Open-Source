@@ -1,0 +1,8 @@
+$$ autoedge.cdb - run at entry of c2 FUN_10724877 (after a global pick): prints the candidate that was just given
+$$ a register and the ids of its interfering neighbours, from whose allowed sets that register is now removed.
+r $t7 = poi(@esp+4)
+r $t8 = poi(@esp+8)
+.printf "E id=%d reg=%d nb=", poi(@$t7+1c), (poi(@$t7+10)-0x107ac730)/0x54
+r $t9 = poi(@$t8)
+.while (@$t9 != 0) { r $t10 = 0; .while (@$t10 < 0x20) { .if ((poi(@$t9+8) >> @$t10) & 1) { .printf "%d,", poi(@$t9) + @$t10 }; r $t10 = @$t10 + 1 }; r $t9 = poi(@$t9+4) }
+.printf "\n"

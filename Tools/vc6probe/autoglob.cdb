@@ -1,0 +1,12 @@
+$$ autoglob.cdb - run after c2 FUN_107245c3 (global register pick) with $t1 = the candidate record:
+$$ prints id, priority, picked register (1 eax 2 ecx 3 edx 4 ebx 6 ebp 7 esi 8 edi), pick costs of
+$$ eax/ecx/edx/ebx/ebp/esi/edi, allowed set, name, then a "P" line: the blocks of its range where it is live,
+$$ each as <block address low 16 bits>:<first source line in the block> (block +0x48 live set, +0x20..+0x1c tuples).
+.printf "G id=%d pri=%d reg=%d cost=%d/%d/%d/%d/%d/%d/%d allowed=%x ", poi(@$t1+1c), poi(@$t1+c), (poi(@$t1+10)-0x107ac730)/0x54, dwo(0x1079d86c), dwo(0x1079d870), dwo(0x1079d874), dwo(0x1079d878), dwo(0x1079d880), dwo(0x1079d884), dwo(0x1079d888), @$t6
+.if (poi(poi(@$t1)) != 0) { da poi(poi(poi(@$t1))+18) } .else { .printf "(temp)\n" }
+r $t3 = poi(@$t1+1c)
+r $t11 = poi(@$t1+28)
+r $t17 = 0
+.printf "P id=%d blocks=", @$t3
+.while ((@$t11 != 0) & (@$t17 < 0n400)) { r $t17 = @$t17 + 1; r $t5 = poi(poi(@$t11+48)); r $t12 = 0; .while (@$t5 != 0) { .if (poi(@$t5) >= (@$t3 & 0xffffffe0)) { .break }; r $t5 = poi(@$t5+4) }; .if (@$t5 != 0) { .if (poi(@$t5) == (@$t3 & 0xffffffe0)) { .if ((poi(@$t5+8) >> (@$t3 & 0x1f)) & 1) { r $t12 = 1 } } }; .if (@$t12 != 0) { r $t13 = poi(@$t11+20); r $t14 = poi(@$t11+1c); r $t15 = 0; r $t16 = 0; .while ((@$t13 != 0) & (@$t13 != @$t14) & (@$t16 < 0n200)) { r $t16 = @$t16 + 1; .if ((by(@$t13+9) & 1) != 0) { .if (wo(@$t13+10) != 0) { r $t15 = wo(@$t13+10); .break } }; r $t13 = poi(@$t13+c) }; .printf "%x:%d,", @$t11 & 0xffff, @$t15 }; .if (@$t11 == poi(@$t1+30)) { .break }; r $t11 = poi(@$t11) }
+.printf "\n"

@@ -1,0 +1,26 @@
+$$ autopiece.cdb - run after c2 FUN_107245c3 (global pick) with $t1 = the candidate record: prints
+$$ "P id=<id> blocks=" and, for every block of the candidate's range (+0x28 .. +0x30) whose live set (+0x48)
+$$ contains the candidate, the first source line of that block (0 = block without a line note).
+r $t11 = poi(@$t1+0x1c)
+r $t2 = poi(@$t1+0x28)
+r $t3 = poi(@$t1+0x30)
+.printf "P id=%d blocks=", @$t11
+r $t12 = 0
+.while ((@$t2 != 0) & (@$t12 < 0n400)) {
+  r $t12 = @$t12 + 1
+  r $t13 = 0
+  r $t14 = poi(poi(@$t2+0x48))
+  .while (@$t14 != 0) { .if (poi(@$t14) >= (@$t11 & 0xffffffe0)) { .break }; r $t14 = poi(@$t14+4) }
+  .if (@$t14 != 0) { .if (poi(@$t14) == (@$t11 & 0xffffffe0)) { .if ((poi(@$t14+8) >> (@$t11 & 0x1f)) & 1) { r $t13 = 1 } } }
+  .if (@$t13 == 1) {
+    r $t15 = poi(@$t2+0x20)
+    r $t16 = poi(@$t2+0x1c)
+    r $t17 = 0
+    r $t18 = 0
+    .while ((@$t15 != 0) & (@$t15 != @$t16) & (@$t18 < 0n200)) { r $t18 = @$t18 + 1; .if ((by(@$t15+0x9) & 1) != 0) { .if (wo(@$t15+0x10) != 0) { r $t17 = wo(@$t15+0x10); .break } }; r $t15 = poi(@$t15+0xc) }
+    .printf "%d,", @$t17
+  }
+  .if (@$t2 == @$t3) { .break }
+  r $t2 = poi(@$t2)
+}
+.printf "\n"

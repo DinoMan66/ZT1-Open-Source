@@ -1,0 +1,10 @@
+$$ autoconf.cdb - run at c2 FUN_10733273 (local register pick): prints the value's opcode, its copy preference
+$$ and which of eax/ecx/edx (1/2/3) are blocked for it by a global register variable (DAT_1079d6c8[reg]).
+r $t3 = poi(poi(@ecx+18)+1c)
+r $t2 = poi(poi(@ecx+18)+2c)
+.printf "A op=%x id=%d", poi(@edx+4), @$t3
+.if (@$t2 != 0) { .printf " pref=%d preg=%d", poi(@$t2+1c), (poi(@$t2+10)-0x107ac730)/0x54 }
+.printf " conf="
+r $t4 = 1
+.while (@$t4 <= 3) { r $t5 = poi(poi(0x1079d6c8 + @$t4*4)); .while (@$t5 != 0) { .if (poi(@$t5) >= (@$t3 & 0xffffffe0)) { .break }; r $t5 = poi(@$t5+4) }; .if (@$t5 != 0) { .if (poi(@$t5) == (@$t3 & 0xffffffe0)) { .if ((poi(@$t5+8) >> (@$t3 & 0x1f)) & 1) { .printf "%d", @$t4 } } }; r $t4 = @$t4 + 1 }
+.printf "\n"

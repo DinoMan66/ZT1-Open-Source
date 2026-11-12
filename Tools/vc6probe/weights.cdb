@@ -1,0 +1,8 @@
+$$ c2.dll loads at its preferred base 0x10700000 (no symbols, so absolute addresses are used)
+$$ stop when c2.dll (the VC6 optimizer) is loaded, then break in its global register allocator
+sxe ld:c2.dll
+g
+$$ FUN_1072450d builds the priority list of register candidates (head pointer at 0x1079d864)
+bp 0x1072450d "gu; $$>a<dumplist.cdb; g"
+g
+q

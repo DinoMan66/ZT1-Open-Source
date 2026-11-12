@@ -16,16 +16,21 @@ as in the original.
 ## Status
 
 Progress is measured by an independent verification tool, never by hand
-(see [`Notes/VERIFIED_PROGRESS.md`](Notes/VERIFIED_PROGRESS.md)). As of 2026-10-28:
+(details: [`Notes/VERIFIED_PROGRESS.md`](Notes/VERIFIED_PROGRESS.md)).
+The table below is rewritten by that tool after every session.
+
+<!-- status:start -->
+Verified by the independent checker on 2026-11-12 (tools intact: yes, rule violations: 0). Only the first row counts as reconstruction.
 
 | | Functions | Share of 10,672 |
 |---|---:|---:|
-| Readable reconstruction (matched, real names) | 86 | 0.8% |
-| Matched, honest placeholder names (to be documented) | 3 | <0.1% |
-| Compiler-generated copies (verified) | 1,167 | 10.9% |
-| Microsoft C runtime / import thunks (not our source) | 265 | 2.5% |
+| Readable reconstruction (matched, real names) | 235 | 2.2% |
+| Matched, honest placeholder names (to be documented) | 228 | 2.1% |
+| Compiler-generated copies (verified, counted separately) | 1,150 | 10.8% |
+| Microsoft library code (not ours, counted separately) | 265 | 2.5% |
+| Written but not matching yet | 32 | 0.3% |
+<!-- status:end -->
 
-Only the first row is counted as reconstruction. It's early days.
 
 ## Target
 
@@ -101,6 +106,10 @@ This project contains only original source written to reproduce the game's behav
 It contains no copyrighted game files, and none are distributed. Zoo Tycoon is a trademark of Microsoft.
 This project is non-commercial.
 
+## Credits
+
+The projects, articles and tools this setup learned from are listed in [CREDITS.md](CREDITS.md).
+
 ## License
 
-CC0 1.0 Universal. You have the freedom to do anything you want with this source code. Speaking personally though, I'd like it if you'd credit me when using my source code on a project. Not a requirement, just asking.
+[CC0 1.0 Universal](LICENSE). You have the freedom to do anything you want with this source code. Speaking personally though, I'd like it if you'd credit me when using my source code on a project. Not a requirement, just asking.
